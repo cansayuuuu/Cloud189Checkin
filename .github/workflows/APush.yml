@@ -31,7 +31,7 @@ jobs:
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.PUSH_KEY }}
-          author_email: "zhouhui_yx@163.com"
+          author_email: "uuuu.com"
           author_name: "yuuu"
     
      
